@@ -1,0 +1,7 @@
+train: D:\YOLOprojects\yolov5-7.0\data\ironman\train\images
+val: D:\YOLOprojects\yolov5-7.0\data\ironman\val\images
+#class typenumbers
+nc: 1
+#class names
+names: ['ironman']
+
